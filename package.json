@@ -8,8 +8,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "d3-path": "^1.0.8",
     "react": "16.8.6",
-    "react-native": "0.60.5"
+    "react-native": "0.60.5",
+    "react-native-svg": "^9.9.4",
+    "react-navigation": "^4.0.5",
+    "svg-path-properties": "^0.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
